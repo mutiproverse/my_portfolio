@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.port": 0,
+    "java.compile.nullAnalysis.nonnull": [
+        "javax.annotation.Nonnull",
+        "org.eclipse.jdt.annotation.NonNull",
+        "org.springframework.lang.NonNull"
+    ]
+}
