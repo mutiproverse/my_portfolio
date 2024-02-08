@@ -149,7 +149,7 @@ main {
   main .icons {
     margin-top: 1rem; }
     main .icons a {
-      padding: 0.4rem; }
+      padding: 0.5rem; }
       main .icons a:hover {
         color: #eece1a;
         transition: all 1.5s ease-out; }
